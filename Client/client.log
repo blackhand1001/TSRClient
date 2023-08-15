@@ -1,0 +1,69 @@
+15.08. 18:29:14.406    ***Logfile for Tiberian Sun Retro client***
+15.08. 18:29:14.408    Client version: 2.8.0.0
+15.08. 18:29:14.408    Loading settings.
+15.08. 18:29:14.479    Initializing updater.
+15.08. 18:29:14.484    Update mirror count: 2
+15.08. 18:29:14.484    Running from: clientdx.exe
+15.08. 18:29:14.486    Operating system: Microsoft Windows NT 6.2.9200.0
+15.08. 18:29:14.486    Selected OS profile: WIN810
+15.08. 18:29:14.489    Removing partial custom component downloads.
+15.08. 18:29:14.490    Checking for the existence of FinalSun.ini.
+15.08. 18:29:14.491    FinalSun.ini doesn't exist - writing default settings.
+15.08. 18:29:14.491    An exception occured while checking the existence of FinalSun settings
+15.08. 18:29:14.500    Writing installation path to the Windows registry.
+15.08. 18:29:14.503    Starting background processing of INI files.
+15.08. 18:29:14.505    Ended background processing of INI files.
+15.08. 18:29:14.796    Initializing GameClass.
+15.08. 18:29:14.898    InitGraphicsMode: 1024x768
+15.08. 18:29:14.976    Loading maps.
+15.08. 18:29:15.048    Custom maps directory does not exist!
+15.08. 18:29:15.509    Attempting to parse INI/Battle.ini to populate mission list.
+15.08. 18:29:15.514    Finished parsing INI/Battle.ini.
+15.08. 18:29:15.515    Attempting to parse INI/BattleFS.ini to populate mission list.
+15.08. 18:29:15.515    Finished parsing INI/BattleFS.ini.
+15.08. 18:29:15.535    Saved Games directory not found!
+15.08. 18:29:15.560    Reading statistics.
+15.08. 18:29:15.588    Hardware info: 11th Gen Intel(R) Core(TM) i9-11900T @ 1.50GHz (8 cores) | Video controller: NVIDIA T1000 | Total physical memory: 32GB
+15.08. 18:29:15.863    AssetLoader.LoadSound: Sound not found! getready.wav
+15.08. 18:29:15.880    AssetLoader.LoadSound: Sound not found! getready.wav
+15.08. 18:29:15.881    AssetLoader.LoadSound: Sound not found! return.wav
+15.08. 18:29:15.881    MultiplayerGameLobby: Saved games are not available!
+15.08. 18:29:15.981    AssetLoader.LoadSound: Sound not found! getready.wav
+15.08. 18:29:15.981    AssetLoader.LoadSound: Sound not found! return.wav
+15.08. 18:29:15.981    MultiplayerGameLobby: Saved games are not available!
+15.08. 18:29:16.004    AssetLoader.LoadSound: Sound not found! getready.wav
+15.08. 18:29:18.071    Writing spawn.ini
+15.08. 18:29:18.084    Writing map.
+15.08. 18:29:18.084    Loading map INI from C:/Users/dblaney/Documents/tsrclient/MAPS\TIBERIAN SUN\TERRACE.map
+15.08. 18:29:18.109    About to launch main game executable.
+15.08. 18:29:18.123    Writing settings INI.
+15.08. 18:29:18.126    Launch executable: LaunchVinifera.dat
+15.08. 18:29:18.126    Launch arguments:  -SPAWN -CD.
+15.08. 18:29:18.131    GameProcessLogic: Process started.
+15.08. 18:29:18.144    Waiting for qres.dat or LaunchVinifera.dat to exit.
+15.08. 18:29:41.822    GameProcessLogic: Process exited.
+15.08. 18:29:41.908    GameProcessExited: Parsing statistics.
+15.08. 18:29:41.908    Parsing game statistics.
+15.08. 18:29:41.911    DTAStatisticsParser: Failed to read statistics: the log file does not exist.
+15.08. 18:29:41.911    GameProcessExited: Adding match to statistics.
+15.08. 18:29:41.911    Skipping adding match to statistics because the game was cancelled.
+15.08. 18:29:41.928    Saved Games directory not found!
+15.08. 18:30:18.904    Writing spawn.ini
+15.08. 18:30:18.905    Writing map.
+15.08. 18:30:18.905    Loading map INI from C:/Users/dblaney/Documents/tsrclient/MAPS\TIBERIAN SUN\TERRACE.map
+15.08. 18:30:18.922    About to launch main game executable.
+15.08. 18:30:18.928    Writing settings INI.
+15.08. 18:30:18.929    Launch executable: LaunchVinifera.dat
+15.08. 18:30:18.929    Launch arguments:  -SPAWN -CD.
+15.08. 18:30:18.933    GameProcessLogic: Process started.
+15.08. 18:30:18.945    Waiting for qres.dat or LaunchVinifera.dat to exit.
+15.08. 18:31:06.300    GameProcessLogic: Process exited.
+15.08. 18:31:06.347    GameProcessExited: Parsing statistics.
+15.08. 18:31:06.348    Parsing game statistics.
+15.08. 18:31:06.348    DTAStatisticsParser: Failed to read statistics: the log file does not exist.
+15.08. 18:31:06.348    GameProcessExited: Adding match to statistics.
+15.08. 18:31:06.348    Skipping adding match to statistics because the game was cancelled.
+15.08. 18:31:06.367    Saved Games directory not found!
+15.08. 18:31:08.030    Saving friend list.
+15.08. 18:31:08.031    Saving ignore list.
+15.08. 18:31:08.032    Saving recent list.
