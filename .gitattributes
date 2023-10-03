@@ -1,1 +1,2 @@
 *.ini text eol=lf
+*.INI text eol=lf
