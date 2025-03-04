@@ -1,2 +1,2 @@
-*.ini text eol=lf
-*.INI text eol=lf
+scores.mix filter=lfs diff=lfs merge=lfs -text
+scores01.mix filter=lfs diff=lfs merge=lfs -text
