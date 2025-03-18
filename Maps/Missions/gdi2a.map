@@ -2043,6 +2043,7 @@ Name=Repair AQ
 16=0AB10B00
 17=08C6CE90
 18=09B48990
+19=01000002-G
 
 [085B4CE0]
 Name=Armored Escort
@@ -2150,6 +2151,11 @@ Name=Outta Here 1
 0=1,CIV1
 1=1,CIV2
 2=1,ORCATRAN
+Group=-1
+
+[01000002-G]
+Name=10 Light tanks
+0=3,1TNK
 Group=-1
 
 [TeamTypes]

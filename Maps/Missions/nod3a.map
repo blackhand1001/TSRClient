@@ -199,7 +199,7 @@ PercentBuilt=0
 NodeCount=0
 
 [Hassan]
-Credits=100
+Credits=50
 Edge=North
 ActsLike=1
 TechLevel=4
@@ -225,7 +225,7 @@ PercentBuilt=0
 NodeCount=0
 
 [Hassan3]
-Credits=50
+Credits=25
 Edge=North
 ActsLike=1
 TechLevel=3
@@ -2178,6 +2178,9 @@ Name=Placeholder
 23=093F13F0
 24=075E2310-G
 25=07E04DC0-G
+26=01000002-G
+27=075E2180-G
+28=0100001F-G
 
 [075E2310-G]
 Name=6 rocket infantry
@@ -2316,6 +2319,21 @@ Group=-1
 [093F13F0]
 Name=Spotlight Guards
 0=2,E1
+Group=-1
+
+[01000002-G]
+Name=10 Light Tanks
+0=3,1TNK
+Group=-1
+
+[075E2180-G]
+Name=6 cyborgs
+0=6,CYBORG
+Group=-1
+
+[0100001F-G]
+Name=3 Mobile Artillery
+0=3,ARTY
 Group=-1
 
 [TeamTypes]

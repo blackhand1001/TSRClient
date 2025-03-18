@@ -1789,6 +1789,7 @@ Name=Harvest
 13=09155950
 14=0458EF00
 15=045A0230
+16=01000002-G
 
 [04431DD0]
 Name=2 rifle infantry
@@ -1874,6 +1875,11 @@ Group=-1
 Name=1 rifle, 1 rocket infantry
 0=1,E1
 1=1,E3
+Group=-1
+
+[01000002-G]
+Name=10 Light tanks
+0=3,1TNK
 Group=-1
 
 [TeamTypes]

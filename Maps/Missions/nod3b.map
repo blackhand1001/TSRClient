@@ -1433,6 +1433,7 @@ Name=buggy
 10=09819AA0
 11=0981BC40
 12=080F45A0
+13=01000002-G
 
 [02B92DC0]
 Name=Buggy
@@ -1498,6 +1499,11 @@ Group=-1
 Name=Prison Break
 0=5,E1
 1=2,E3
+Group=-1
+
+[01000002-G]
+Name=10 Light Tanks
+0=3,1TNK
 Group=-1
 
 [TeamTypes]
